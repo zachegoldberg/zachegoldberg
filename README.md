@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachegoldberg
-- 👀 I’m interested in Data Science, Machine Learning, and all things creative and outdoors
+- 👀 I’m interested in Data Science, and Machine Learning
 - 🌱 I’m currently learning new ways to use ML to improve the world around us. Right now, I'm extremely interested in Generative AI!
 - 💞️ I’m looking to collaborate on any DS/ML/AI projects!
 - 📫 How to reach me Email: zachegoldberg@gmail.com or  LinkedIn: https://www.linkedin.com/in/zgoldberg1
