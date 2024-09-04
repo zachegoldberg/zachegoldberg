@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachegoldberg
 - 👀 I’m interested in Data Science, Data Analytics, and Machine Learning
-- 📫 How to reach me Email: zachegoldberg@gmail.com or  LinkedIn: https://www.linkedin.com/in/zgoldberg1
+- 📫 How to reach me Email: zachegoldberg@gmail.com or  LinkedIn: https://www.linkedin.com/in/zachegoldberg
 
 
 <!---
